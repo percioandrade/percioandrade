@@ -2,6 +2,9 @@
 
 Why i need to write a text here? My actions talk for me ;)
 
+My Site: https://zendev.com.br
+My Blog: https://bandodenerd.com.br
+
 <!--
 **percioandrade/percioandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
