@@ -46,25 +46,25 @@ text, tspan {white-space: pre;}
 <text x="420" y="30" fill="#c9d1d9">
 <tspan x="400" y="30">percioandrade</tspan>
 <tspan x="400" y="50">——————</tspan>
-<tspan x="400" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 10, iOS</tspan>
-<tspan x="400" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">22 years, 0 months, 24 days</tspan>
-<tspan x="400" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Rochester Institute of Technology</tspan><tspan class="commentColor"> #RIT</tspan>
-<tspan x="400" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Electrical and Computer Engineering Technology</tspan><tspan class="commentColor"> #CPET</tspan>
-<tspan x="400" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">IntelliJ IDEA 2021.2.1, VSCode 1.64.0</tspan>
-<tspan x="400" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Java, Python, C++, JavaScript</tspan>
+<tspan x="400" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 10, KaliLinux, Ubuntu, CentOS, Debian/RedHat</tspan>
+<tspan x="400" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">38 years, 0 months, 24 days</tspan>
+<tspan x="400" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">None</tspan><tspan class="commentColor"> #</tspan>
+<tspan x="400" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">In future CyberSec</tspan><tspan class="commentColor"> #</tspan>
+<tspan x="400" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">WindSurf, VSCode, VIM, Notepad ++</tspan>
+<tspan x="400" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Bash, Python, PHP, Pasqual(a litle)</tspan>
 <tspan x="400" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, LaTeX, YAML, Markdown</tspan>
 <tspan x="400" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Spanish</tspan>
-<tspan x="400" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Minecraft Modding, iOS Jailbreaking</tspan>
-<tspan x="400" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Overclocking, Undervolting</tspan>
+<tspan x="400" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Programming, Design, Create</tspan>
+<tspan x="400" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Dismantling and in most cases Break haha</tspan>
 <tspan x="400" y="330" class="keyColor">Contact</tspan>:
 <tspan x="400" y="350">——————</tspan>
-<tspan x="400" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">agrantnmac@gmail.com</tspan>
-<tspan x="400" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">Andrew6rant</tspan>
-<tspan x="400" y="410" class="keyColor">Discord</tspan>: <tspan class="valueColor">andrew6rant</tspan>
+<tspan x="400" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">perciocastelo@gmail.com | percio@zendev.com</tspan>
+<tspan x="400" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">percioandrade</tspan>
+<tspan x="400" y="410" class="keyColor">Discord</tspan>: <tspan class="valueColor">skoutte</tspan>
 <tspan x="400" y="450" class="keyColor">GitHub Stats</tspan>:
 <tspan x="400" y="470">——————</tspan>
-<tspan x="400" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">90</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">128</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">2,011  </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">226</tspan>
-<tspan x="400" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">87  </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">438,300</tspan> (<tspan class="addColor">511,046++</tspan>, <tspan class="delColor">72,746--</tspan>)
+<tspan x="400" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">98</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">2</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">157  </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">42</tspan>
+<tspan x="400" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">9  </tspan>| <tspan class="keyColor">Nickname</tspan>: <tspan class="valueColor">sr00t3d</tspan> (<tspan class="addColor">skoutte</tspan>, <tspan class="delColor">in progress...</tspan>)
 </text>
 
 </svg>
