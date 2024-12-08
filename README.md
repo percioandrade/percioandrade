@@ -2,6 +2,8 @@
 
 Why i need to write a text here? My actions talk for me ;)
 
+![About me](https://raw.githubusercontent.com/percioandrade/percioandrade/refs/heads/main/file.svg)
+
 My Site: https://zendev.com.br
 My Blog: https://bandodenerd.com.br
 
