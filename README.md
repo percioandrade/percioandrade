@@ -1,4 +1,4 @@
-## Hi there 👋 aka (r00t3d)
+## Hi there 👋 aka (sr00t3d)
 
 Why i need to write a text here? My actions talk for me ;)
 
