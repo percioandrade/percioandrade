@@ -4,8 +4,10 @@ Why i need to write a text here? My actions talk for me ;)
 
 ![About me](https://raw.githubusercontent.com/percioandrade/percioandrade/refs/heads/main/file.svg)
 
-My Site: https://zendev.com.br
-My Blog: https://bandodenerd.com.br
+- My Site: https://zendev.com.br
+- My Blog: https://bandodenerd.com.br
+
+Étnico ou não? Eis a questão :)
 
 <!--
 **percioandrade/percioandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
