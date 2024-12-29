@@ -4,10 +4,11 @@
 Desde cedo, a curiosidade sempre foi minha maior aliada. Meu primeiro contato com o desenvolvimento foi aos 8 anos, quando criei meu primeiro site no FrontPage (sim, aquela ferramenta clássica!). Naquela época, eu já queria entender como as coisas funcionavam: **como inserir uma imagem?** **Como listar um diretório?**
 
 Hoje, meu foco está em cibersegurança, uma área que sempre me fascinou, mas que recentemente decidi explorar de forma mais estruturada e profissional. Sou autodidata, aprendendo desde sempre pela internet, e agora estou dedicando meus esforços para consolidar minha trajetória nesse campo.
+
 ![About me](https://raw.githubusercontent.com/percioandrade/percioandrade/refs/heads/main/file.svg)
 
-- My Site: https://zendev.com.br
-- My Blog: https://bandodenerd.com.br
+- Site: https://zendev.com.br
+- Blog: https://bandodenerd.com.br
 
 - 🔭 Atualmente estou trabalhando em TI em prestação de serviços, criação de projetos, documentação e hospedagem de sites
 - 🌱 Estou aprendendo atualmente sobre CiberSegurança ...
